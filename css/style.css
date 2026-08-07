@@ -64,7 +64,7 @@ nav a:hover:after {
 }
 .hero {
   background: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)),
-    url("../images/hero.jpg") center/cover;
+    url("../images/hero.webp") center/cover;
   min-height: 90vh;
 }
 .hero-overlay {
